@@ -1,3 +1,7 @@
+## Link for the live website:
+
+https://vishwas-news-homepage.netlify.app/
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
